@@ -7,4 +7,7 @@
 
 ## URL
 
-https://resume.d-andoh.com/
+> [!CAUTION]
+> 現在このURLは無効です（削除済み）。
+
+~~https://resume.d-andoh.com/~~
